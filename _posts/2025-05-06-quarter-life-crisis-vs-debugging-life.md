@@ -1,6 +1,6 @@
 ---
 title: Quarter-Life Crisis vs Debugging Life
-date: 2025-05-06 14:10:00 +0800
+date: 2025-05-06 00:34:00 +0800
 author: ZapGrid
 categories: [life, personal]
 tags: [existential, self-dev, thoughts]
