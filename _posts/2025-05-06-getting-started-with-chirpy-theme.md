@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Chirpy Jekyll Theme
-date: 2025-05-06 20:55:00 +0800
+date: 2025-05-06 00:34:00 +0800
 author: ZapGrid
 categories: [tech, tutorial]
 tags: [jekyll, chirpy, github-pages]
