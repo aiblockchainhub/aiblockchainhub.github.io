@@ -1,10 +1,11 @@
 ---
 title: Quarter-Life Crisis vs Debugging Life
-author: ZapGrid
 date: 2025-05-06 14:10:00 +0800
+author: ZapGrid
 categories: [life, personal]
 tags: [existential, self-dev, thoughts]
 render_with_liquid: false
+description: Comparing life in your 20s to debugging code — both full of errors, retries, and unexpected exceptions.
 ---
 
 There’s a weird overlap between debugging code and figuring out your 20s.
