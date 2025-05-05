@@ -1,13 +1,12 @@
 ---
 title: Getting Started with Chirpy Jekyll Theme
-description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: ZapGrid
 date: 2025-05-06 20:55:00 +0800
+author: ZapGrid
 categories: [tech, tutorial]
 tags: [jekyll, chirpy, github-pages]
 pin: true
+render_with_liquid: false
+description: A quick guide on how to set up the Chirpy Jekyll theme using GitHub Pages — from fork to deploy.
 ---
 
 So you're curious about using the Chirpy theme? Good choice.
