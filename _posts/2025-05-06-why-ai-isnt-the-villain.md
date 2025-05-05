@@ -1,12 +1,13 @@
 ---
 title: Why AI Isn’t the Villain in Our Story
-author: ZapGrid
 date: 2025-05-06 11:33:00 +0800
+author: ZapGrid
 categories: [AI, thoughts]
 tags: [AI, future, opinion]
 pin: true
 math: true
 mermaid: true
+description: AI isn’t replacing humanity — it’s reflecting it. Here’s why the real threat lies in our refusal to evolve.
 ---
 
 Let’s get one thing straight: **AI isn’t here to take over. It’s here to reflect us.**
