@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: AI and Blockchain Hub # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Tech Talk for the Brave New World # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  AI & Blockchain Hub breaks down the smartest tech on the planet—Artificial Intelligence and Blockchain—in a way that actually makes sense. Whether you're a curious student, tech nerd, or just trying to keep up with the future, we’ve got guides, trends, and deep dives that won’t bore you to death. No fluff. Just future.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://aiblockchainhub.github.io"
 
 github:
   username: github_username # change to your GitHub username
